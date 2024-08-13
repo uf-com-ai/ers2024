@@ -19,8 +19,8 @@ A surface-level familiarity and at least some hands-on experience with Python is
 | Time | Session |
 | - | - |
 | 9:00 - 9:30 | Introduction |
-| 9:30 - 10:00 | Computing Environment Setup |
-| 10:00 - 11:00 | Intro to AI & Machine Learning |
+| 9:30 - 10:30 | Intro to AI & Machine Learning |
+| 10:30 - 11:00 | Computing Environment Setup |
 | 11:00 - 11:15 | Break |
 | 11:15 - 12:00 | [Notebook: Introduction to Python](https://colab.research.google.com/github/uf-com-ai/ers2024/blob/main/notebooks/1_Introduction_to_Python.ipynb) |
 | 12:00 - 1:00 | Working Lunch, [Notebook: Biomedical Data Analysis](https://colab.research.google.com/github/uf-com-ai/ers2024/blob/main/notebooks/2_Biomedical_Data_Analysis.ipynb) |
