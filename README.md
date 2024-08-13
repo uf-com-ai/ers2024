@@ -26,7 +26,7 @@ A surface-level familiarity and at least some hands-on experience with Python is
 | 12:00 - 1:00 | Working Lunch, [Notebook: Biomedical Data Analysis](https://colab.research.google.com/github/uf-com-ai/ers2024/blob/main/notebooks/2_Biomedical_Data_Analysis.ipynb) |
 | 1:00 - 2:00 | [Notebook: Machine Learning for Health](https://colab.research.google.com/github/uf-com-ai/ers2024/blob/main/notebooks/3_Machine_Learning_for_Health.ipynb) |
 | 2:00 - 2:15 | Break |
-| 2:15 - 3:00 | [Notebook: Deep Learning](https://colab.research.google.com/github/uf-com-ai/ers2024/blob/main/notebooks/4_Introduction_to_Deep_Learning.ipynb) |
+| 2:15 - 3:00 | [Notebook: Deep Learning](https://colab.research.google.com/github/uf-com-ai/ers2024/blob/main/notebooks/4_Deep_Learning.ipynb) |
 | 3:00 - 3:15 | Break |
 | 3:15 - 4:00 | [Notebook: Ethics of AI for Health](https://colab.research.google.com/github/uf-com-ai/ers2024/blob/main/notebooks/5_Medical_AI_Ethics.ipynb) |
 
