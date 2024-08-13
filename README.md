@@ -1,5 +1,5 @@
 # Fall 2024 ERS-AI Bootcamp
-**When:** Tuesday, August 12 (9am-5pm) and Wednesday, August 13 (1pm-5pm)  
+**When:** Tuesday, August 13 (9am-5pm) and Wednesday, August 14 (1pm-5pm)  
 **Where:** C1-121 (Biomedical Information Teaching Space), HSC Library
 
 ## Self-Paced Training Resources
